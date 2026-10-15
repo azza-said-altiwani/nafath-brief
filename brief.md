@@ -44,9 +44,9 @@ Resource: NIST SP 800-61 Revision 2: Computer Security Incident Handling Guide -
 
 ## Data
 
-<text>
+Both of them are way to save data in the database. Star schema have a central fact table, which connected to other tables. It's easy to understand and use. Snowflake schema have a fact table connected with others, but the other tables also connect with many others. It decreases the duplication and just complex to understand. Star schema is best choice because it's simple and easy to connect data with services based on dates and region to provide fast reporting.
 
-<url>
+Resource: Kimball Group: Dimensional Modeling Techniques - https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/
 
 
 ## Misconception in My Track
