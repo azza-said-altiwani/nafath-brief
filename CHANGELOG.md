@@ -1,0 +1,11 @@
+-	fa298a8 Initial Commit
+-	56b4366 brief template
+-	06dc981 Software Field
+-	d175f55 AI Field
+-	5e499db Mobile Field
+-	e1f4cc4 Network Field
+-	79204fe Cybersecurity Field
+-	7423117 Data Field
+-	d5f9e97 Misconception Part
+-	539517e Overview Part
+-	d63b3b9 Open Question Part
