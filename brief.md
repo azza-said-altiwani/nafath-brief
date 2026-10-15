@@ -56,6 +56,4 @@ Resource: Machine Learning: Classification: Accuracy, recall, precision, and rel
 
 ## Open Question
 
-<text>
-
-<url>
+I would like to learn how to select the most suitable machine learning algorithm for a specific task and verify which algorithm provides the best results on new data.
