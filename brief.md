@@ -3,9 +3,7 @@ Track: AI
 
 ## Overview
 
-<text>
-
-<url>
+In this track, I learned important concepts from six fields, Software, AI, Mobile, Networking, Cybersecurity, and Data. From Software, I learned how save and idempotent HTTP methods help to prevent unwanted changes, especially when requests are repeated. In AI, I learned how the overfitting affects the model performance and how I can use cross-validation to help evaluate models. In Mobile, I learned the importance of offline access and synchronizing data when the internet returns back. In Networking, I learned how 5G network slicing can support emergency services, especially when accidents happen. In Cybersecurity, I learned the main phases of incident response lifecycle, step by step. In Data, I compared star schema with snowflake schema and learned which one is suitable for reporting. Finally, I learned that accuracy alone cannot fully evaluate machine learning models, especially with imbalanced data. These concepts helped me understand how to build reliable, secure, and efficient systems. 
 
 
 ## Software
