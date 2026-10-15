@@ -24,9 +24,9 @@ Resource: Scikit Learn: Underfitting vs. Overfitting - https://scikit-learn.org/
 
 ## Mobile
 
-<text>
+The responder's mobile app must support working without internet by saving the data in mobile itself and allowing users to reach and save the important information anytime when the app is offline. It also must synchronize the local data with server whenever the internet returns back. Also, it should update the latest information which the user may change them by solving any conflicts to prevent losing the data.
 
-<url>
+Resource: Android Developers: Build an offline-first app - https://developer.android.com/topic/architecture/data-layer/offline-first
 
 
 ## Networking
