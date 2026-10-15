@@ -51,9 +51,9 @@ Resource: Kimball Group: Dimensional Modeling Techniques - https://www.kimballgr
 
 ## Misconception in My Track
 
-<text>
+Accuracy is enough to judge a machine learning model. This is a misconception. But the truth is, accuracy is not always enough to say this model is good, especially with imbalanced data, which means one class has more examples than the other class. When we predict a model with high amount of data in class A, and low amount of data in class B. The accuracy will be high, but it will fail to detect class B. This means it's a high accuracy model, but it performs poorly to detect the other class. Therefore, using evaluation metrics such as recall and F1 score to understand the model performance is better than using accuracy alone.
 
-<url>
+Resource: Machine Learning: Classification: Accuracy, recall, precision, and related metrics - https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall
 
 
 ## Open Question
