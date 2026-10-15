@@ -31,9 +31,9 @@ Resource: Android Developers: Build an offline-first app - https://developer.and
 
 ## Networking
 
-<text>
+5G network slicing means to divide one network into different virtual networks, and each one of them have its own requirements and purpose based on users need, for example one of these parts is for emergency. This can help more when there is an accident in a crowded street, all people are using their phones in same time, but with 5G network slicing technique police and emergency can use their virtual network for fast working.
 
-<url>
+Resource: Geeks for Geeks: Network Slicing in 5G Networks - https://www.geeksforgeeks.org/computer-networks/network-slicing-in-5g-networks/
 
 
 ## Cybersecurity
