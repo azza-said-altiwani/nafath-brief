@@ -17,9 +17,10 @@ Resource: RFC 9110: STD 97: HTTP Semantics - https://www.rfc-editor.org/info/rfc
 
 ## AI
 
-<text>
+Overfitting means that the model learns the training data too well, especially the noise data from the old network, but it cannot predict the new data. To solve this problem by using Cross-validation by divide the data in many parts, then we train the model in many parts to make sure whether it is learning or just saving the data. If the result is good in training data and bad in testing data, that is may be overfitting.
 
-<url>
+Resource: Scikit Learn: Underfitting vs. Overfitting - https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html
+
 
 ## Mobile
 
