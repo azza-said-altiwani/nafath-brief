@@ -38,10 +38,9 @@ Resource: Geeks for Geeks: Network Slicing in 5G Networks - https://www.geeksfor
 
 ## Cybersecurity
 
-<text>
+Incident response lifecycle. It is sequence steps to handle attacks and protect systems. Preparation, to prepare a security system, plan, and the tools. Detection and Analysis, to detect the attack and understand what's happening. Containment, to stop the attack from spreading other systems. Eradication, to remove the reason of attack, such as malware. Recovery, to restore the service, and check it. Learn a Lesson, by write everything happens, understand the mistake and improve the security to prevent future attacks.
 
-<url>
-
+Resource: NIST SP 800-61 Revision 2: Computer Security Incident Handling Guide - https://csrc.nist.gov/pubs/sp/800/61/r2/final
 
 ## Data
 
